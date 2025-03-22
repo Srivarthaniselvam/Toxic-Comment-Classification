@@ -9,7 +9,9 @@ This project involves building a multi-headed model to detect multiple forms of 
 # Disclaimer: The dataset contains offensive and profane text as it aims to train models to detect such content.
 
 # Types of Toxicity
+
 Each comment is labeled with one or more of the following toxicity types:
+
 ✅ toxic – general toxic language
 ✅ severe_toxic – highly aggressive or offensive content
 ✅ obscene – profanity or vulgar expressions
